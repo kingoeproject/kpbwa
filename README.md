@@ -17,7 +17,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/MhankBarBar/whatsapp-bot
+> git clone https://github.com/kingoeproject/kpbwa
 ```
 
 ## Install the dependencies:
@@ -30,7 +30,7 @@ you've just cloned!!
 ```
 
 ### Usage
-Before running this script, first edit [`THIS`](https://github.com/MhankBarBar/whatsapp-bot/blob/master/msgHndlr.js#L60) section with your WhatsApp number, remember your WhatsApp number!  Not a bot number, then
+Before running this script, first edit [`THIS`](https://github.com/kingoeproject/whatsapp-bot/blob/master/msgHndlr.js#L60) section with your WhatsApp number, remember your WhatsApp number!  Not a bot number, then
 ```bash
 > npm start
 ```
